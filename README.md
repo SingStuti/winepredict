@@ -1,6 +1,6 @@
    #  Wine Quality Prediction
 Wine Quality Prediction App
-![header image](/wine.jpg)
+![header image](/wine.jpg=250x250)
 
 #### Project Overview
 ##### Introduction
