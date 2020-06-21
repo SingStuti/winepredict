@@ -1,6 +1,6 @@
    #  Wine Quality Prediction
 Wine Quality Prediction App
-![header image](/wine.jpg=250x250)
+<img src="https://github.com/SingStuti/winepredict/wine.jpg" width="200" height="200">
 
 #### Project Overview
 ##### Introduction
