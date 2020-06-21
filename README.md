@@ -2,7 +2,7 @@
 
 
 
-<img align="center" width="460" height="360" src="https://www.wine-searcher.com/images/news/74/12/faves1-10007412.jpg">
+<img align="center" width="670" height="245" src="https://www.wine-searcher.com/images/news/74/12/faves1-10007412.jpg">
 #### Project Overview
 ##### Introduction
 
