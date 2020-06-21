@@ -1,9 +1,9 @@
-#  Wine Quality Prediction
+   #  Wine Quality Prediction
 Wine Quality Prediction App
-![image](/wine.jpg)
+![header image](/wine.jpg)
 
 #### Project Overview
-#####Introduction
+##### Introduction
 
 Wine is an alcoholic beverage made from fermented grapes. Yeast consumes the sugar in the grapes and converts it to ethanol, carbon dioxide, and heat. It is a pleasant tasting alcoholic beverage, loved cellebrated . It will definitely be interesting to analyze the physicochemical attributes of wine and understand their relationships and significance with wine quality and types classifications. To do this, We will proceed according to the standard Machine Learning and data mining workflow models like the CRISP-DM model and devlop an app mainly for:
 
