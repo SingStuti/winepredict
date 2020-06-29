@@ -33,19 +33,26 @@ Use machine learning to determine which physiochemical properties make a wine 'g
 
 Dataset is from Kaggle. This datasets is related to red variants of the Portuguese "Vinho Verde" wine.Vinho verde is a unique product from the Minho (northwest) region of Portugal. Medium in alcohol, is it particularly appreciated due to its freshness (specially in the summer). The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 ##### Attributes Information
-Input variables (based on physicochemical tests):
-1 - fixed acidity 
-2 - volatile acidity 
-3 - citric acid 
-4 - residual sugar 
-5 - chlorides 
-6 - free sulfur dioxide 
-7 - total sulfur dioxide 
-8 - density 
-9 - pH 
-10 - sulphates 
-11 - alcohol 
-Output variable (based on sensory data): 
-12 - quality (score between 0 and 10)
 
+
+Input variables (based on physicochemical tests):
+1. fixed acidity 
+2. volatile acidity 
+3. citric acid 
+4. residual sugar 
+5. chlorides 
+6. free sulfur dioxide 
+7. total sulfur dioxide 
+8. density 
+9. pH 
+10. sulphates 
+11 .alcohol 
+Output variable (based on sensory data): 
+12. quality (score between 3 to 8)
+
+##### App Deployment
+App is deployed as app1.py in streamlit.
+streamlit run app1.py
+After few seconds, an internet browser window should pop-up and directs you to the created web app by taking you to http://localhost:8501 as shown below.
+![Image](Screenshot.png)
 
