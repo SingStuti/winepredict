@@ -26,7 +26,8 @@ Here I am going to make a simple machin learning with the help of Streamlit to p
 
 #### Project Goals
 
-Use machine learning to determine which physiochemical properties make a wine 'good' and devlop a web app with the help of streamlit to predict quality of wine?
+Use machine learning to determine which physiochemical properties make a wine 'good' and devlop a web app with the help of streamlit to predict quality of wine? You can also check my blog on Medium for detailed explanation:
+<a href="https://medium.com/@singhstuti/wine-quality-prediction-app-8ba8291d40f9">Blog Link</a>
 
 
 #### Data Overview
