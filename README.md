@@ -51,8 +51,8 @@ Output variable (based on sensory data):
 12. quality (score between 3 to 8)
 
 ##### App Deployment
-App is deployed as app1.py in streamlit.
-streamlit run app1.py
+App is deployed as app1.py in streamlit.<br/>
+streamlit run app1.py <br/>
 After few seconds, an internet browser window should pop-up and directs you to the created web app by taking you to http://localhost:8501 as shown below.
 ![Image](Screenshot.png)
 
